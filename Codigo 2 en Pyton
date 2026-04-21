@@ -1,0 +1,5 @@
+print("Calculo de Trabajo")
+fuerza = float(imput("Ingrese la fuerza (N): "))
+distancia = float(input("Ingrese la distancua (m): "))
+trabajo = fuerza * distancia 
+print("El trabajo es:", trabajo)
