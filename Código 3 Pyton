@@ -1,0 +1,5 @@
+print("Cálculo de Energía Cinética")
+masa = float(input("Ingresa la masa (kg): "))
+velocidad = float(input("Ingresa la velocidad (m/s): "))
+energia = 0.5 * masa * (velocidad * velocidad)
+print("La energía cinética es:", energia)
